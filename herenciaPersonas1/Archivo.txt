@@ -1,0 +1,5 @@
+CLIENTE	19412789F	Lucas	m	19	Via Laietana, 9	null	1	2024-04-07	true
+EMPLEADO	97023113M	Marina	f	23	Calle Pelayo, 8	null	23	2300.0
+EMPLEADO	53643028J	Hugo	o	18	Micasa	null	1	2400.0
+EMPLEADO	26323207Y	Nombre	f	16	Dirección	null	2	0.0
+EMPLEADO	26323208F	Nombre	f	16	Dirección	null	3	0.0
